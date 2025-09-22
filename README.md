@@ -12,7 +12,7 @@ Dự án này được xây dựng nhằm luyện tập kiến thức về front
 - Nhập các giá trị số bằng các nút máy tính.
 - Thực hiện các hoạt động toán học bằng cách chọn các nút toán tử tương ứng.
 - Sử dụng nút thập phân cho đầu vào thập phân.
-- Xóa đầu vào hoặc thực hiện tính toán khi cần thiết.
+- Copy/Paste các kết quả và xóa đầu vào nếu cần thiết.
 
 ---
 # 🛠️ Công nghệ sử dụng
