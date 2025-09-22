@@ -5,7 +5,7 @@ Dự án này được xây dựng nhằm luyện tập kiến thức về front
 
 ---
 ## 🚀 Demo giao diện
-!(casio580.png)
+![imgs](casio580.png)
 
 ---
 🛠️ Công nghệ sử dụng
