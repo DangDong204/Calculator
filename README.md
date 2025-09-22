@@ -1,5 +1,6 @@
 # 🧮 Calculator
 Ứng dụng máy tính cầm tay - Casio 580 đơn giản được viết bằng HTML, CSS và JS
+
 Dự án này được xây dựng nhằm luyện tập kiến thức về front-end
 
 ---
