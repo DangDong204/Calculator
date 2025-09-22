@@ -4,8 +4,9 @@
 Dự án này được xây dựng nhằm luyện tập kiến thức về front-end
 
 ---
-🚀 Demo
-![Demo Screenshot](casio580.png)
+## 🚀 Demo giao diện
+![Calculator Screenshot](casio580.png)
+
 ---
 🛠️ Công nghệ sử dụng
 - HTML5: xây dựng giao diện máy tính đơn giản
